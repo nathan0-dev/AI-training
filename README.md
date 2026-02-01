@@ -89,7 +89,7 @@ if __name__ == "__main__":
 
 1. Faça clone do repositório:
 ```bash
-git clone https://github.com/nathan0-dev/fine-tuning-phi3.git
+git clone https://github.com/nathan0-dev/AI-training.git
 ```
 
 2. Abra o notebook `fine_tuning_phi3.ipynb` no Google Colab
